@@ -1,0 +1,105 @@
+html, body{
+	height:100%;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+.background-01{
+	background: url('background/01-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.background-02{
+	background: url('background/02-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.background-03{
+	background: url('background/03-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.background-04{
+	background: url('background/04-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.background-05{
+	background: url('background/05-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.background-06{
+	background: url('background/06-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+#well {
+	background-color: rgba(0,0,0,0.6);
+    height: 100%;
+    border: none;
+    position: relative;
+    padding-bottom: 20px;
+    padding-left: 5%;
+}
+
+#logo {
+	height: 10%;
+}
+
+#bottom-content{
+	position: absolute; bottom: 0; 
+	margin-right: 5%;
+	color: white;
+}
+
+#submit{
+	background-color: #ea7534;
+	border-color: #ea7534;
+	width: 100%;	
+	color: white;
+}
+
+.col-md-4{
+	height: 97%;
+}
+
+.row {
+	margin-right: 0px;
+	height: 100%;
+}
+
+.white-font{
+	color: white;
+}
+.question{
+	color: #f8b600;
+}
+
+.sub-title{
+	margin-left: 10%;
+}
+
+.information-label{
+	margin-top: 19px;
+	margin-bottom: 19px;
+	font-size: 10px;
+}
