@@ -20,7 +20,7 @@
 
 				<div id="bottom-content">
           <h4 class="question">¿QUIERES MEJORAR TU RENDIMIENTO?</h4>         
-          <p class="message"><h1>Mira la primera clase del Curso de Deporte y Mindfulness</h1></p>
+          <h2>Mira la primera clase del Curso de Deporte y Mindfulness</h2>
           <form action="http://animaedu.us8.list-manage2.com/subscribe/post" method="POST">
             <input type="hidden" name="u" value="a6cc20041d7b404fe3812592d">
             <input type="hidden" name="id" value="3db75f0851">
@@ -41,5 +41,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+     $(document).ready(function(){
+        if ($("#well").css("height") < "500") {
+            $("#bottom-content").css("top", 130);
+        };
+     });
+    </script>
   </body>
 </html>
