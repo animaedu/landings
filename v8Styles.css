@@ -66,11 +66,23 @@ html, body{
 }
 
 #bottom-content{
-	position: absolute;
-	bottom: 0px;	
 	margin-right: 5%;
 	color: white;
 }
+
+@media (min-width: 360px ) {
+  #bottom-content{		
+		position: absolute;
+		bottom: 0px;	
+	}
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 	360px) { 
+	#bottom-content{		
+		top: 130;	
+	}
+ }
 
 #submit{
 	background-color: #ea7534;
