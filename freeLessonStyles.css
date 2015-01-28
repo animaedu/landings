@@ -74,8 +74,9 @@ ul
 }
 
 .course-description-section{
-	padding-top: 5%;
 	background-color: #eee;
+	margin-right: 0px !important;
+	margin-left: 0px !important;
 }
 
 .multiline-label{
