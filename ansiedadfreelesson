@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1419506248303140']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1419506248303140&amp;ev=PixelInitialized" /></noscript>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-50415143-2', 'auto');
+ga('send', 'pageview');
+</script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title id="title">Mindfulness – Vision Clara</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="freeLessonStyles.css">
+<link rel="shortcut icon" href="img/favicon.ico">
+</head>
+<body>
+<div>
+<div class="column-container">
+<div class="navbar-header">
+<img id="logo" src="img/wlogo.png">
+</div>
+<br>
+<br>
+<div class="course-title">
+<h2 id="course-title">Mindfulness – Cuidando tu Ansiedad</h2>
+</div>
+<span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span>
+<span class="sub-title"> PRIMER CLASE </span>
+<hr>
+<div class="row">
+<div class="col-md-7" id="first-class-video-col">
+<iframe id="first-class-video"
+src="http://sebbrea.wistia.com/embed/iframe/maz95agv4o?videoFoam=true" frameBorder="0" scrolling="no">
+</iframe>
+</div>
+<div class="col-md-5" id="first-class-information-col">
+<p>
+Este programa  hace foco en el miedo y la ansiedad como condicionamientos primarios de la mente. Brinda herramientas para aprender a gobernarlos y a percibirlos ya no como un enemigo, sino como una emoción muchas veces imaginaria producto de nuestra mente condicionada.
+</p>
+<h4 class="sub-title">El curso incluye:</h4>
+<p>- +20 videos que brindan tanto ideas como ejercicios prácticos.</p>
+<p>- Audios de meditación guiadas, que podrás descargar.</p>
+<p>- Guía de preguntas que te permitirán afianzar las ideas transmitidas.</p>
+<label>
+Costo
+<label class="sub-title bold">
+$480 ARS
+</label>
+</label>
+<button type="submit" class="btn btn-default input-lg submit">COMENZAR EL CURSO</button>
+</div>
+</div>
+</div>
+<br>
+<br>
+<div class="row course-description-section">
+<div class="column-container">
+<div class="col-md-5" id="course-description-video-col">
+<span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span>
+<span class="sub-title"> DESCRIPCIÓN DEL CURSO </span>
+<hr class="separator">
+<iframe id="description-course-video" style="height: 210px"
+src="https://www.youtube.com/embed/5ygwPIeJ_8Q">
+</iframe>
+<br>
+<br>
+<button type="submit" class="btn btn-default input-lg submit">COMENZAR EL CURSO</button>
+<br>
+<br>
+</div>
+<div class="col-md-7"id="course-instructor-program-col">
+<span class="sub-title"> INSTRUCTOR </span>
+<hr class="separator">
+<div class="row">
+<div class="col-md-3">
+<p>
+<div class="instructor-photo-div">
+<img id="instructor-photo" src="img/9BF91E5E-C913-1883-A9DD-F855561361FE.jpg" class="img-circle">
+</div>
+</p>
+</div>
+<div class="col-md-9">
+<label id="instructor-name">Clara Badino</label>
+<p id="instructor-presentation">Clara Badino, es Directora General de VisiónClara, y a su vez formadora de instructores de mindfulness. Con más de 20 años de experiencia, VisionClara es hoy la máxima referente en LatinoAmerica en la enseñanza y difusión de la practica de Mindfulness
+</p>
+</div>
+</div>
+<br>
+<span class="sub-title"> PROGRAMA </span>
+<hr class="separator">
+<ul id="program">
+<li><label style="bold">Lección 1:</label> Ansiedad y Miedo</li>
+<li><label style="bold">Lección 2:</label> ¿Qué es una emoción?</li>
+<li><label style="bold">Lección 3:</label> Dejar que las cosas sucedan</li>
+<li><label style="bold">Lección 4:</label> Mindfulness: la práctica de la elección</li>
+</il>
+</div>
+</div>
+</div>
+<br>
+<div class="column-container">
+<h2>¿Por qué elegir AnimaEdu?</h2>
+<br>
+<div class="row">
+<div class="col-md-4">
+<img src="img/certificate.png">
+<br>
+<label class="sub-title multiline-label">INSTRUCTORES</label><br>
+<label>RECONOCIDOS</label>
+<div class="row">
+<div class="col-md-3">
+<hr class="separator">
+</div>
+</div>
+<p>
+Cada instructor tiene muchos años cultivando y compartiendo su sabiduría. A través de AnimaEdu, pueden hacer llegar su práctica a muchas màs personas!</p>
+</div>
+<div class="col-md-4">
+<img src="img/phone.png">
+<br>
+<label class="sub-title multiline-label">A TU RITMO,</label><br>
+<label>EN TU LUGAR</label>
+<div class="row">
+<div class="col-md-3">
+<hr class="separator">
+</div>
+</div>
+<p>
+Tú decides cuándo comenzar cada curso. Y puedes elegir dónde, en qué horario y a qué ritmo ver las clases. Y puedes ver los videos las veces que quieras!
+</p>
+</div>
+<div class="col-md-4">
+<img src="img/guyandgraphic.png">
+<br>
+<label class="sub-title multiline-label">FOCO EN</label><br>
+<label>DESARROLLO PERSONAL</label>
+<div class="row">
+<div class="col-md-3">
+<hr class="separator">
+</div>
+</div>
+<p>
+Los cursos presentan distintas maneras de abordar el desarrollo persona, para que puedan encontrar aquella con la que más se identifiquen o para que puedan probar e integrar diferentes abordajes!
+</p>
+</div>
+</div>
+<div class="row" style="margin-top: 5%; margin-bottom: 10%">
+<div class="col-md-5 col-md-offset-7">
+<button type="submit" class="btn btn-default input-lg submit">COMENZAR EL CURSO</button>
+</div>
+</div>
+</div>
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<!-- Custom -->
+<script type="text/javascript">
+$(document).ready(function(){
+// Set the height of video column equal of video information col height
+$("#first-class-video-col").css("height",$("#first-class-information-col").css("height"));
+$(".submit").click(function(){
+window.location = "https://animaedu.com/register-to-course?course=mindfulness-vision-clara";
+})
+})
+</script>
+</body>
+</html>
