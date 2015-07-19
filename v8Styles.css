@@ -52,6 +52,14 @@ html, body{
   	background-size: cover;
 }
 
+.background-07{
+	background: url('background/07-1920x1080.jpg') no-repeat center center fixed;	
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
 #well {
 	background-color: rgba(0,0,0,0.6);
     height: 100%;
